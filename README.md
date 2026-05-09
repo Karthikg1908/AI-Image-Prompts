@@ -17,7 +17,7 @@ Please edit this photo without changing the face, turning it into an artistic po
 
 ### 🖼️ Result
 <p align="center">
-  <img src="[images/prompt1-result.jpg](https://www.indiamart.com/proddetail/nature-hd-wallpaper-22872115691.html?srsltid=AfmBOopYXE3QIO6m5LBOaupE2XoAkNzTVIqItKLeo2SbkKvSgIwKS3QA)" width="500"/>
+  <img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="500"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ A young Indian man sitting on a stool, wearing a beige hoodie and black pants, c
 
 ### 🖼️ Result
 <p align="center">
-  <img src="[images/prompt2-result.jpg](https://www.indiamart.com/proddetail/nature-hd-wallpaper-22872115691.html?srsltid=AfmBOopYXE3QIO6m5LBOaupE2XoAkNzTVIqItKLeo2SbkKvSgIwKS3QA)" width="500"/>
+  <img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="500"/>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Final touch: soft bloom glow on highlights, flash photography look (digital came
 
 ### 🖼️ Result
 <p align="center">
-  <img src="[images/prompt3-result.jpg](https://www.indiamart.com/proddetail/nature-hd-wallpaper-22872115691.html?srsltid=AfmBOopYXE3QIO6m5LBOaupE2XoAkNzTVIqItKLeo2SbkKvSgIwKS3QA)" width="500"/>
+  <img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="500"/>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 
 ### 🖼️ Result
 <p align="center">
-  <img src="[images/prompt4-result.jpg](https://www.indiamart.com/proddetail/nature-hd-wallpaper-22872115691.html?srsltid=AfmBOopYXE3QIO6m5LBOaupE2XoAkNzTVIqItKLeo2SbkKvSgIwKS3QA)" width="500"/>
+  <img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="500"/>
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ Use a real face as a reference photo the background is the lighting is warm soft
 
 ### 🖼️ Result
 <p align="center">
-  <img src="[images/prompt5-result.jpg](https://www.indiamart.com/proddetail/nature-hd-wallpaper-22872115691.html?srsltid=AfmBOopYXE3QIO6m5LBOaupE2XoAkNzTVIqItKLeo2SbkKvSgIwKS3QA)" width="500"/>
+  <img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="500"/>
 </p>
 
 <p align="center">
