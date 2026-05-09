@@ -1,190 +1,102 @@
 <div align="center">
 
-# ✨ AI IMAGE PROMPTS ✨
+# AI IMAGE PROMPTS
 
-### 🚀 Premium Collection of Viral AI Image Prompts
+Minimal • Cinematic • Aesthetic
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Cinematic+AI+Prompts;Chibi+%26+Anime+Edits;Ultra+Realistic+Portraits;Creative+Prompt+Engineering;Trending+AI+Art+Styles" />
+A curated collection of high-quality AI image prompts for creating cinematic portraits, scrapbook edits, chibi renders, anime visuals, and realistic AI artworks.
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Prompts-black?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DALL·E-Generated-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Midjourney-Art-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/StableDiffusion-Creative-black?style=for-the-badge"/>
-</p>
-
----
-
-### 🎨 About This Repository
-
-A premium collection of trending AI prompts used to generate:
-
-✨ Cinematic Portraits  
-✨ Chibi Character Art  
-✨ Scrapbook Collages  
-✨ Pinterest Aesthetic Edits  
-✨ Anime Style Visuals  
-✨ Ultra Realistic Photography  
-
-Designed for creators, editors, designers, and AI art enthusiasts.
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/banner.jpg" width="100%"/>
 
 </div>
 
 ---
 
-# 📸 Prompt Showcase
+## ARTISTIC BABY PORTRAIT
 
----
-
-<div align="center">
-
-# 👶 Artistic Baby Portrait
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="750"/>
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/📋_COPY_PROMPT-8A2BE2?style=for-the-badge&logo=copy.ai&logoColor=white"/>
-</a>
-
-</div>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
 
 <br>
+
+> Transform a baby portrait into an elegant artistic edit with monochrome background aesthetics and soft emotional expression.
 
 ```text
-Please edit this photo without changing the face, turning it into an artistic portrait. The 20 month old baby should be elegantly seated on the floor, wearing a modern black top, soft loose gray jeans, and chunky gray and white sneakers. He has little, neck-length wavy milky brown hair. His facial expression is laughing while looking upwards. The background should be an artistic monochrome (black and white) composition featuring a soft close-up side profile of the same face. (face exactly as uploaded)
+Please edit this photo without changing the face, turning it into an artistic portrait. The 20 month old baby should be elegantly seated on the floor, wearing a modern black top, soft loose gray jeans, and chunky gray and white sneakers. He has little, neck-length wavy milky brown hair. His facial expression is laughing while looking upwards. The background should be an artistic monochrome composition featuring a soft close-up side profile of the same face.
 ```
 
 ---
 
-<div align="center">
+## MINI CARTOON MOTIVATION POSTER
 
-# 🧸 Mini Cartoon Motivation Poster
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="750"/>
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/📋_COPY_PROMPT-ff914d?style=for-the-badge"/>
-</a>
-
-</div>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
 
 <br>
 
+> Cinematic motivational poster featuring cute mini cartoon versions of the subject with warm aesthetic lighting.
+
 ```text
-A young Indian man sitting on a stool, wearing a beige hoodie and black pants, calm confident expression, surrounded by multiple cute mini cartoon versions of himself in different poses (sitting, climbing rope, taking photos, waving, using phone), warm yellow-orange gradient background, modern motivational poster style, soft cinematic lighting, highly detailed face, 3D cartoon characters, depth of field, aesthetic composition, books stacked beside him (self-improvement theme)
+A young Indian man sitting on a stool, wearing a beige hoodie and black pants, calm confident expression, surrounded by multiple cute mini cartoon versions of himself in different poses, warm yellow-orange gradient background, cinematic lighting, highly detailed face, 3D cartoon characters, aesthetic composition.
 ```
 
 ---
 
-<div align="center">
+## CINEMATIC SCRAPBOOK COLLAGE
 
-# 🎬 Cinematic Scrapbook Collage
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="750"/>
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/📋_COPY_PROMPT-red?style=for-the-badge"/>
-</a>
-
-</div>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
 
 <br>
 
+> Ultra realistic scrapbook collage inspired by vintage flash photography and Pinterest moodboards.
+
 ```text
-Ultra realistic cinematic scrapbook collage of a person (use uploaded face with 100% face match, no changes at all). Multiple rectangular photo panels arranged vertically and diagonally with slight overlap, creating an aesthetic layered collage...
+Ultra realistic cinematic scrapbook collage of a person with layered photo panels, dramatic golden-orange flash lighting, film grain, dreamy blur, aesthetic music player card, torn paper textures, floral stickers, soft bloom glow, dark indoor cinematic mood.
 ```
 
 ---
 
-<div align="center">
+## DREAMY SCRAPBOOK MOODBOARD
 
-# 🌌 Dreamy Scrapbook Moodboard
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="750"/>
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/📋_COPY_PROMPT-00bfff?style=for-the-badge"/>
-</a>
-
-</div>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
 
 <br>
 
+> Modern Pinterest-style moodboard with masculine aesthetics, soft lighting, and decorative scrapbook elements.
+
 ```text
-Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shirt and trendy outfit, multiple angles and poses, confident attitude look...
+Dreamy scrapbook collage aesthetic for a stylish young man, trendy outfit, multiple poses, decorative stars, lightning, chains, hearts, cinematic soft lighting, grid background, cut-out effect, Pinterest style moodboard, ultra HD quality.
 ```
 
 ---
 
-<div align="center">
+## CHIBI AESTHETIC EDIT
 
-# 🌟 Cute Chibi Aesthetic Edit
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="750"/>
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/📋_COPY_PROMPT-ff69b4?style=for-the-badge"/>
-</a>
-
-</div>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
 
 <br>
 
+> Cute 3D chibi-inspired portrait edit with doodles, sparkles, and playful aesthetic styling.
+
 ```text
-Use a real face as a reference photo the background is the lighting is warm soft and clean with subtle shadows around the image...
+Use a real face as reference with warm soft lighting and subtle shadows. Add mini 3D chibi versions of the character with cute expressions, white doodle outlines, sparkles, stars, hearts, motion lines, and aesthetic handwritten elements.
 ```
 
 ---
 
-# 🚀 AI Tools Used
+## TOOLS
 
-<div align="center">
-
-| Tool | Usage |
-|------|--------|
-| ChatGPT Image Gen | Prompt Based Editing |
-| DALL·E | AI Art Generation |
-| Midjourney | Cinematic Visuals |
-| Leonardo AI | Creative Portraits |
-| Stable Diffusion | Realistic Artwork |
-| Flux AI | Advanced Image Rendering |
-
-</div>
-
----
-
-# 🌟 Why This Repository?
-
-✔️ Learn Prompt Engineering  
-✔️ Discover Viral AI Styles  
-✔️ Generate Pinterest-Level Edits  
-✔️ Create Cinematic AI Visuals  
-✔️ Save & Reuse Premium Prompts  
+- ChatGPT Image Generation
+- DALL·E
+- Midjourney
+- Leonardo AI
+- Stable Diffusion
+- Flux AI
 
 ---
 
 <div align="center">
 
-# 💫 Support This Project
-
-⭐ Star this repository if you found it useful  
-🍴 Fork and create your own prompt collection  
-🎨 Keep creating with AI
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+### CREATED FOR AI ART LOVERS & PROMPT ENGINEERS
 
 </div>
