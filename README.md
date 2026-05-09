@@ -1,102 +1,47 @@
+````md id="1t0yk5"
 <div align="center">
 
-# AI IMAGE PROMPTS
+# ✨ AI IMAGE PROMPTS
 
-Minimal • Cinematic • Aesthetic
-
-A curated collection of high-quality AI image prompts for creating cinematic portraits, scrapbook edits, chibi renders, anime visuals, and realistic AI artworks.
-
-<br>
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/banner.jpg" width="100%"/>
+> A curated collection of cinematic, aesthetic, and ultra-detailed AI image prompts designed for creating Pinterest-style visuals, fashion edits, moodboards, and high-quality digital art.
 
 </div>
 
 ---
 
-## ARTISTIC BABY PORTRAIT
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
-
-<br>
-
-> Transform a baby portrait into an elegant artistic edit with monochrome background aesthetics and soft emotional expression.
-
-```text
-Please edit this photo without changing the face, turning it into an artistic portrait. The 20 month old baby should be elegantly seated on the floor, wearing a modern black top, soft loose gray jeans, and chunky gray and white sneakers. He has little, neck-length wavy milky brown hair. His facial expression is laughing while looking upwards. The background should be an artistic monochrome composition featuring a soft close-up side profile of the same face.
-```
-
----
-
-## MINI CARTOON MOTIVATION POSTER
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
-
-<br>
-
-> Cinematic motivational poster featuring cute mini cartoon versions of the subject with warm aesthetic lighting.
-
-```text
-A young Indian man sitting on a stool, wearing a beige hoodie and black pants, calm confident expression, surrounded by multiple cute mini cartoon versions of himself in different poses, warm yellow-orange gradient background, cinematic lighting, highly detailed face, 3D cartoon characters, aesthetic composition.
-```
-
----
-
-## CINEMATIC SCRAPBOOK COLLAGE
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
-
-<br>
-
-> Ultra realistic scrapbook collage inspired by vintage flash photography and Pinterest moodboards.
-
-```text
-Ultra realistic cinematic scrapbook collage of a person with layered photo panels, dramatic golden-orange flash lighting, film grain, dreamy blur, aesthetic music player card, torn paper textures, floral stickers, soft bloom glow, dark indoor cinematic mood.
-```
-
----
-
-## DREAMY SCRAPBOOK MOODBOARD
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
-
-<br>
-
-> Modern Pinterest-style moodboard with masculine aesthetics, soft lighting, and decorative scrapbook elements.
-
-```text
-Dreamy scrapbook collage aesthetic for a stylish young man, trendy outfit, multiple poses, decorative stars, lightning, chains, hearts, cinematic soft lighting, grid background, cut-out effect, Pinterest style moodboard, ultra HD quality.
-```
-
----
-
-## CHIBI AESTHETIC EDIT
-
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/images.jpg" width="100%"/>
-
-<br>
-
-> Cute 3D chibi-inspired portrait edit with doodles, sparkles, and playful aesthetic styling.
-
-```text
-Use a real face as reference with warm soft lighting and subtle shadows. Add mini 3D chibi versions of the character with cute expressions, white doodle outlines, sparkles, stars, hearts, motion lines, and aesthetic handwritten elements.
-```
-
----
-
-## TOOLS
-
-- ChatGPT Image Generation
-- DALL·E
-- Midjourney
-- Leonardo AI
-- Stable Diffusion
-- Flux AI
-
----
+# 🌌 Prompt 01 — Dreamy Scrapbook Collage Aesthetic
 
 <div align="center">
 
-### CREATED FOR AI ART LOVERS & PROMPT ENGINEERS
+<img src="https://raw.githubusercontent.com/Karthikg1908/AI-Image-Prompts/main/images.jpg" width="300"/>
 
 </div>
+
+## 📝 Prompt
+
+```txt
+Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shirt and trendy outfit, multiple angles and poses, confident attitude look. Add decorative elements like stickers, stars, lightning, chains, hearts, and aesthetic doodles. Background with soft gradient or grid style, cut-out effect around the subject. Cinematic soft lighting, smooth skin, masculine aesthetic, trendy Instagram edit, Pinterest style moodboard, ultra high quality, HD, sharp details.
+```
+
+---
+
+# 🎞️ Prompt 02 — Ultra Realistic Cinematic Scrapbook
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Karthikg1908/AI-Image-Prompts/main/images.jpg" width="300"/>
+
+</div>
+
+## 📝 Prompt
+
+```txt
+Ultra realistic cinematic scrapbook collage of a person (use uploaded face with 100% face match, no changes at all). Multiple rectangular photo panels arranged vertically and diagonally with slight overlap, creating an aesthetic layered collage. Each panel shows different shots: close-up face, mid portrait, necklace close-up, extreme eye close-up with strong shadow split, and a right-angle portrait with soft side gaze. Top panel serious expression looking directly at camera.
+
+Lighting: strong golden-orange direct flash hitting face from front, creating high contrast, deep shadows, glowing skin highlights on cheekbones, nose and lips. Background dark indoor room with slightly visible illuminated window curtain.Color grading: intense amber, burnt orange and golden tones dominating entire image. Add slight film grain and soft blur for dreamy vintage feel Subtle vignette around edges.
+
+Styling: messy tied black hair with loose strands falling on face, soft subtle eyeliner, natural skin texture (avoid over smoothing), wearing a delicate small pendant necklace and off-shoulder white top. Add realistic scrapbook elements: torn paper textures, orange/red/green lily flower stickers placed around collage. Include a minimal aesthetic music player card on left-center with text:
+Title: khat Artist: novzot ahujaa Add small playback bar and play icon, with soft handwritten text: “I come play for escape”.
+Final touch: soft bloom glow on highlights, flash photography look (digital camera at night), high detail, ultra realistic
+```
+````
