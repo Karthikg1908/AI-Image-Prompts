@@ -448,17 +448,12 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 
 ---
 
-
 <div align="center">
 
-# ✦ TOOLS USED ✦
-
-ChatGPT • DALL·E • Midjourney • Leonardo AI • Stable Diffusion • Flux AI
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:2d2d2d"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:ff6ec4,25:7873f5,50:4ADEDE,75:f9d423,100:ff4e50"/>
 
-### ⭐ STAR THIS REPOSITORY IF YOU LIKE THE PROMPTS
-
+### 🌈 STAR THIS REPOSITORY IF YOU LIKE THE PROMPTS ✨
 </div>
