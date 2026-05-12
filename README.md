@@ -366,7 +366,7 @@ Pastel tones, cozy aesthetic, doodles, sparkles, rounded collage frames, Instagr
 # ✨ PROMPT 17 — REALISTIC + CHIBI BLEND
 
 <div align="center">
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/REALISTIC%20CHIBI%20BLEND.png" width="340"/>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/REALISTIC%20%2B%20CHIBI%20BLEND.png" width="340"/>
 </div>
 
 ```txt
@@ -439,7 +439,7 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 # 🌌 PROMPT 22 — Tiny Twin Portrait
 
 <div align="center">
-<img src="" width="340"/>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
 </div>
 
 ```txt
