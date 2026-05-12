@@ -436,6 +436,16 @@ Final touch: soft bloom glow on highlights, flash photography look (digital came
 Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shirt and trendy outfit, multiple angles and poses, confident attitude look. Add decorative elements like stickers, stars, lightning, chains, hearts, and aesthetic doodles. Background with soft gradient or grid style, cut-out effect around the subject. Cinematic soft lighting, smooth skin, masculine aesthetic, trendy Instagram edit, Pinterest style moodboard, ultra high quality, HD, sharp details.
 ```
 
+# 🌌 PROMPT 22 — Tiny Twin Portrait
+
+<div align="center">
+<img src="" width="340"/>
+</div>
+
+```txt
+8K cinematic portrait: above girl as her miniature version. Side by side against textured dark wall, handwritten "miniature me!" text. Both in matching dresses white sneakers, hands in pockets. Women leans with soft smile; child has cartoon-style face, large expressive eyes. Ultra-realistic skin texture, warm soft lighting, shallow depth of field, sharp focus, studio quality.
+```
+
 ---
 
 
