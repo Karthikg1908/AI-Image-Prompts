@@ -366,7 +366,7 @@ Pastel tones, cozy aesthetic, doodles, sparkles, rounded collage frames, Instagr
 # ✨ PROMPT 17 — REALISTIC + CHIBI BLEND
 
 <div align="center">
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/REALISTIC%20CHIBI%20BLEND.png" width="340"/>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/REALISTIC%20%2B%20CHIBI%20BLEND.png" width="340"/>
 </div>
 
 ```txt
@@ -439,7 +439,7 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 # 🌌 PROMPT 22 — Tiny Twin Portrait
 
 <div align="center">
-<img src="" width="340"/>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
 </div>
 
 ```txt
@@ -448,17 +448,12 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 
 ---
 
-
 <div align="center">
 
-# ✦ TOOLS USED ✦
-
-ChatGPT • DALL·E • Midjourney • Leonardo AI • Stable Diffusion • Flux AI
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:2d2d2d"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:ff6ec4,25:7873f5,50:4ADEDE,75:f9d423,100:ff4e50"/>
 
-### ⭐ STAR THIS REPOSITORY IF YOU LIKE THE PROMPTS
-
+### 🌈 STAR THIS REPOSITORY IF YOU LIKE THE PROMPTS ✨
 </div>
