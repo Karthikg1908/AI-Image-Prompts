@@ -457,3 +457,8 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 
 ### 🌈 STAR THIS REPOSITORY IF YOU LIKE THE PROMPTS ✨
 </div>
+
+
+A luxurious romantic digital collage featuring a young beautiful woman in a deep red royal lehenga. The main subject stands Doyal centered, slightly angled, holding her dupatta with a confident smile, wearing intricate embroidered attire. Surrounding her is a semi-oval collage of black-and-white close-up portraits with bold expressions, arranged like royal frames. The backgroundh is a dark maroon velvet texture with subtleove golden highlights. Decorative elements include red roses, golden sparkles, heart-shaped light flares, and elegant crown motifs. Text elements such as "Royal Beauty," "Made with Love," and "My Heart Beats for You" appear in stylish handwritten fonts. A golden heartbeat line flows across the design. At the bottom, "Keerti" is written in premium gold cursive typography. Rich contrast, cinematic lighting, high-end retouching, luxury romantic vibe, ultra-detailed.
+
+
