@@ -450,6 +450,50 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 
 <div align="center">
 
+# 🌌 PROMPT 23 — Crimson Streetwear Campaign Shot
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
+</div>
+
+```txt
+A hyper-realistic fashion campaign portrait of a stylish young man with light-medium skin, short dark curly hair with a clean fade haircut, brown eyes, and a well-groomed short beard. He is wearing a glossy oversized red puffer jacket, loose red streetwear pants, and red-and-white athletic sneakers inspired by modern basketball sneaker fashion.
+
+He is crouching low in a confident urban pose: one knee raised upward and one leg extended forward toward the camera. His left arm rests casually over the raised knee while the right hand hangs relaxed near the other leg. His body is angled slightly sideways while his head tilts forward, staring directly into the camera with a sharp, confident expression.
+
+The camera angle is an ultra wide-angle low perspective shot, emphasizing the front sneaker appearing extremely large and dominant in the foreground, creating dramatic depth and perspective.
+
+The environment is a fully monochromatic luxury red studio setup with a smooth glossy floor and seamless curved backdrop. Behind him are large white swoosh-inspired graphic shapes and dynamic flowing ribbon-like red elements adding motion and energy to the composition.
+
+Lighting is dramatic studio lighting with strong highlights, cinematic reflections on the glossy jacket, and soft realistic shadows. The image features extremely sharp details on fabric texture, sneaker materials, skin texture, beard, and hair.
+
+Color palette is saturated monochromatic red with clean white accents, creating a premium modern streetwear campaign aesthetic.
+
+Style: hyper-realistic photography, editorial fashion campaign, luxury sportswear advertisement, ultra detailed, cinematic composition, professional commercial lighting, sharp focus, high contrast, realistic proportions, realistic anatomy, clean background, premium quality, 8K resolution.
+
+Negative prompt: blurry image, low quality, distorted body, extra limbs, extra fingers, deformed hands, bad anatomy, duplicate shoes, warped face, stretched proportions, cropped feet, messy background, artifacts, watermark, text, oversaturated skin, motion blur, noise, cartoon style, CGI look.
+
+```
+
+# 🌌 PROMPT 24 — Cozy Beige Mirror Selfie Aesthetic
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
+</div>
+
+```txt
+A high-quality studio portrait cutout of an 18-year-old Indian girl taking a mirror selfie. She has long, voluminous curly black hair cascading over her shoulders. She is wearing an oversized, loose-fitting dark brown button-up linen shirt and comfortable off-white cotton trousers. She holds a modern smartphone up to take the selfie, looking slightly away from the camera with a soft, confident expression. The entire subject has a soft, glowing cream-colored outline/sticker effect around her, separating her from the background. The background is a solid, warm matte beige paper texture, decorated with simple hand-drawn brown hearts and a cute teddy bear peeking from the top left corner. Clean composition, soft studio lighting.
+```
+
+---
+
+<div align="center">
+
+
+---
+
+<div align="center">
+
 
 <br><br>
 
