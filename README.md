@@ -544,320 +544,91 @@ A romantic illustrated scrapbook collage featuring two semi-realistic digital po
 </div>
 
 ```txt
-Create an ultra-detailed realistic studio photoshoot miniature portrait in a 4:5 premium poster ratio using the uploaded reference image(s) as the ONLY subject reference.
+Create an ultra-detailed realistic miniature studio photoshoot portrait in a premium 4:5 poster ratio using the uploaded reference image(s) as the ONLY facial and outfit reference.
 
+The final image must preserve the EXACT real-life identity of the uploaded person(s) with extremely accurate facial resemblance. The character should instantly look like the same real person transformed into a premium miniature chibi-style cinematic portrait — not a random AI-generated face.
 
-CRITICAL FACE ACCURACY REQUIREMENT:
+Preserve with high accuracy: exact face structure, eye shape and spacing, eyebrows, nose shape, lips, jawline, beard or makeup details, hairstyle, hairline, skin tone, facial proportions, and all unique facial characteristics. Maintain natural real-life expressions and identity consistency.
 
-The final image MUST preserve the EXACT REAL facial identity of the uploaded person(s). When someone sees the image, it should instantly feel like the SAME real person transformed into a premium miniature chibi-style studio photoshoot — NOT a random AI-generated face.
+Do NOT: change identity, beautify excessively, alter hairstyle, change skin tone, replace facial features, over-cartoonize the face, or generate mismatched/random faces.
 
+Character transformation style:
+Transform the uploaded person(s) into adorable premium 3D miniature chibi characters with slightly oversized heads, tiny realistic bodies, realistic skin texture, luxury toy-like proportions, and ultra-detailed facial resemblance.
 
-STRICTLY preserve:
+Scene setup:
+The miniature character(s) are sitting inside a large realistic human hand inside a luxury professional photography studio environment.
 
-• Exact face structure
-
-• Eye shape and spacing
-
-• Eyebrows
-
-• Nose structure
-
-• Lips and smile shape
-
-• Jawline
-
-• Beard/makeup details
-
-• Hairstyle and hairline
-
-• Skin tone
-
-• Facial proportions
-
-• Unique facial characteristics
-
-• Natural real-life expressions
-
-
-DO NOT:
-
-• Change identity
-
-• Beautify excessively
-
-• Replace facial features
-
-• Generate random faces
-
-• Change hairstyle
-
-• Alter skin tone
-
-• Lose resemblance during stylization
-
-• Over-cartoonize facial details
-
-
-Character Rules:
-
-• If one boy photo is uploaded → generate ONLY that boy.
-
-• If one girl photo is uploaded → generate ONLY that girl.
-
-• If a couple photo is uploaded → generate BOTH persons together.
-
-• Do NOT add extra people or unrelated characters.
-
-
-Miniature Chibi Transformation:
-
-Transform the uploaded person(s) into adorable realistic big-head miniature chibi characters with:
-
-• Slightly oversized heads
-
-• Tiny realistic bodies
-
-• Ultra-realistic facial resemblance
-
-• Premium 3D miniature styling
-
-• Realistic skin texture
-
-• Cute but luxury studio-shoot proportions
-
-
-Main Scene Concept:
-
-The miniature character(s) should appear inside a realistic professional photography studio setup, sitting inside a large realistic human hand.
-
-
-Pose & Expression:
-
+Pose and expression:
 • Sitting cross-legged
-
-• Hands crossed or naturally posed
-
-• Slightly pouty
-
-• Mock-angry but adorable
-
+• Hands naturally posed or crossed
+• Slight pouty expression
+• Mock-angry but cute expression
 • Looking directly at the camera
+• Playful and adorable body language
 
-• Cute playful body language
+Interactive hand effect:
+A second realistic human hand gently pinches, touches, or adjusts the character’s cheek playfully.
 
-
-Interactive Hand Effect:
-
-Add a second realistic hand gently pinching, touching, or adjusting one character’s cheek for a playful teasing effect.
-
-
-Studio Photoshoot Environment:
-
-Create a luxury professional photography studio atmosphere with visible realistic studio equipment such as:
-
-• DSLR cinema camera
-
+Studio environment details:
+Create a cinematic luxury photography studio atmosphere including:
+• DSLR cinema cameras
 • Professional softbox lights
-
 • Ring lights
-
-• Spotlight stands
-
-• Reflectors
-
-• Studio monitors
-
 • Tripods
-
-• Cinematic lighting rigs
-
-• Photography backdrop setup
-
-• Light modifiers
-
+• Reflectors
+• Spotlight stands
 • Camera lenses
+• Studio monitors
+• Cinematic lighting rigs
+• Photography backdrop setup
+• High-end editorial shooting environment
 
-• Professional shooting environment
-
-
-Lighting Concept:
-
-A soft cinematic studio light should be directly focused on the miniature character(s), creating:
-
-• Warm facial highlights
-
-• Soft shadows
-
-• Professional beauty-light effect
-
-• Cinematic depth
-
-• Realistic studio reflections
-
-• Glossy premium skin lighting
-
-• DSLR-quality illumination
-
-
-The lighting should feel like:
-
-• A real fashion photoshoot
-
-• Luxury portrait studio
-
-• Cinematic movie lighting
-
-• High-end editorial photography
-
+Lighting style:
+Soft cinematic studio lighting focused directly on the miniature character(s), creating warm highlights, soft shadows, glossy skin reflections, realistic depth, beauty-light effects, and luxury editorial lighting similar to a professional fashion photoshoot.
 
 Background:
+Blurred premium studio background with dreamy bokeh lights, shallow depth of field, soft warm tones, cinematic atmosphere, and realistic indoor studio aesthetics.
 
-Create a blurred premium studio background with:
-
-• Dreamy bokeh lights
-
-• Cinematic depth of field
-
-• Luxury indoor aesthetic
-
-• Soft warm tones
-
-• Professional backdrop setup
-
-• High-end studio atmosphere
-
-
-Extra Mini Chibi Characters:
-
-Add multiple tiny 3D mini versions of the SAME uploaded character(s) around the main subjects doing cute and funny activities like:
-
+Extra miniature characters:
+Add multiple tiny 3D mini versions of the SAME uploaded character(s) around the main subject doing cute behind-the-scenes activities such as:
 • Holding mini cameras
-
-• Adjusting studio lights
-
+• Adjusting lights
 • Pulling cheeks
-
-• Fighting playfully
-
-• Holding hearts
-
 • Sitting on camera equipment
-
+• Holding hearts
 • Hugging
-
 • Laughing
+• Playful reaction poses
+• Tiny studio crew moments
 
-• Cute reaction poses
+Aesthetic details:
+• Soft glowing outline around the main character(s)
+• Cinematic light streaks and lens flares
+• Floating dust particles and dreamy glow effects
+• Realistic camera reflections
+• Soft atmospheric fog and light diffusion
+• Premium editorial composition
 
-• Tiny behind-the-scenes studio moments
+Typography design:
+Add elegant fashion-poster typography naturally integrated into the composition using texts like:
+“STUDIO MODE”
+“MAIN CHARACTER”
+“BEHIND THE SCENES”
+“MINI STAR”
+“CINEMATIC VIBES”
+“DIRECTOR’S CUT”
+“LUXURY SHOOT”
 
+Typography style should feel minimal, premium, cinematic, and fashion-editorial inspired with soft glow effects.
 
-Aesthetic Design Elements:
+Outfit accuracy:
+Maintain the EXACT SAME outfit, clothing colors, textures, accessories, hairstyle, and fashion styling from the uploaded reference image(s).
 
-• Add glowing cinematic borders around the main character(s)
+Rendering quality:
+Ultra-realistic miniature studio art, hyper-detailed premium 3D render, Pixar-style realism, realistic facial texture, DSLR-quality photography look, cinematic lighting, premium editorial color grading, clean sharp focus, luxury portrait composition, Instagram-worthy premium poster aesthetic, highly detailed, realistic depth and shadows.
 
-• Add subtle light streaks and lens flares
-
-• Add floating particles and dreamy glow effects
-
-• Add realistic camera reflections
-
-• Add soft atmospheric fog/light diffusion
-
-• Add premium editorial framing composition
-
-
-Typography Design:
-
-Add premium studio-themed typography naturally integrated into the poster such as:
-
-• “STUDIO MODE”
-
-• “MAIN CHARACTER”
-
-• “BEHIND THE SCENES”
-
-• “MINI STAR”
-
-• “CINEMATIC VIBES”
-
-• “DIRECTOR’S CUT”
-
-• “LUXURY SHOOT”
-
-
-Typography Style:
-
-• Minimal premium fonts
-
-• Fashion-magazine typography
-
-• Soft glow text
-
-• Cinematic poster design
-
-• Luxury editorial aesthetic
-
-
-Outfit Accuracy:
-
-Maintain the EXACT SAME:
-
-• Clothing
-
-• Outfit colors
-
-• Textures
-
-• Accessories
-
-• Hairstyle
-
-• Fashion styling
-
-from the uploaded reference image(s).
-
-
-Rendering Quality:
-
-• Ultra-realistic miniature studio art
-
-• Hyper-detailed premium 3D render
-
-• High-end Pixar-style realism
-
-• Realistic facial texture
-
-• DSLR-quality photography look
-
-• Soft cinematic lighting
-
-• Premium editorial color grading
-
-• Clean sharp focus
-
-• Luxury portrait composition
-
-• Instagram-worthy premium poster quality
-
-
-Important Restrictions:
-
-• DO NOT modify identity
-
-• DO NOT swap faces
-
-• DO NOT create mismatched faces
-
-• DO NOT add unknown people
-
-• Keep uploaded person(s) fully recognizable
-
-
-Aspect Ratio:
-
-4:5 premium poster ratio.
-
+Negative prompt:
+low quality, blurry face, wrong identity, distorted facial features, extra limbs, extra fingers, duplicate characters, deformed anatomy, cartoon face, unrealistic skin, mismatched hairstyle, bad hands, bad proportions, cropped body, low detail, noisy image, artifacts, oversaturated colors, text errors, watermark.
 
 ```
 
