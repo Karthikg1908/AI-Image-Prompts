@@ -527,6 +527,340 @@ Creat a Bk hyper-realistic dark green portrait cinematic image with dramatic smi
 A romantic illustrated scrapbook collage featuring two semi-realistic digital portrait illustrations of a woman and a man placed inside polaroid-style photo frames. The woman has long flowing dark hair and a soft smile, labeled "Her Gaze" ", and the man has styled hair with light stubble, labeled "His Smile". In the center, two hands reaching toward each other in a gentle, emotional pose. Background is a warm beige paper texture with faint grid lines, torn paper edges, and layered scrapbook elements. Small hand-drawn doodles like hearts, sparkles, and arrows scattered around. Soft lighting, clean line art, smooth shading, warm pastel tones, romantic aesthetic, minimal shadows, high detail, balanced composition, no photorealism.
 ```
 
+# 👶 PROMPT 29 —ultra-detailed stylized sketch-avatar portrait
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/ARTISTIC%20BABY%20PORTRAIT.png" width="340"/>
+</div>
+
+```txt
+A romantic illustrated scrapbook collage featuring two semi-realistic digital portrait illustrations of a woman and a man placed inside polaroid-style photo frames. The woman has long flowing dark hair and a soft smile, labeled "Her Gaze" ", and the man has styled hair with light stubble, labeled "His Smile". In the center, two hands reaching toward each other in a gentle, emotional pose. Background is a warm beige paper texture with faint grid lines, torn paper edges, and layered scrapbook elements. Small hand-drawn doodles like hearts, sparkles, and arrows scattered around. Soft lighting, clean line art, smooth shading, warm pastel tones, romantic aesthetic, minimal shadows, high detail, balanced composition, no photorealism.
+```
+
+# 👶 PROMPT 30 — ultra-detailed realistic studio photoshoot miniature
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/ARTISTIC%20BABY%20PORTRAIT.png" width="340"/>
+</div>
+
+```txt
+Create an ultra-detailed realistic studio photoshoot miniature portrait in a 4:5 premium poster ratio using the uploaded reference image(s) as the ONLY subject reference.
+
+
+CRITICAL FACE ACCURACY REQUIREMENT:
+
+The final image MUST preserve the EXACT REAL facial identity of the uploaded person(s). When someone sees the image, it should instantly feel like the SAME real person transformed into a premium miniature chibi-style studio photoshoot — NOT a random AI-generated face.
+
+
+STRICTLY preserve:
+
+• Exact face structure
+
+• Eye shape and spacing
+
+• Eyebrows
+
+• Nose structure
+
+• Lips and smile shape
+
+• Jawline
+
+• Beard/makeup details
+
+• Hairstyle and hairline
+
+• Skin tone
+
+• Facial proportions
+
+• Unique facial characteristics
+
+• Natural real-life expressions
+
+
+DO NOT:
+
+• Change identity
+
+• Beautify excessively
+
+• Replace facial features
+
+• Generate random faces
+
+• Change hairstyle
+
+• Alter skin tone
+
+• Lose resemblance during stylization
+
+• Over-cartoonize facial details
+
+
+Character Rules:
+
+• If one boy photo is uploaded → generate ONLY that boy.
+
+• If one girl photo is uploaded → generate ONLY that girl.
+
+• If a couple photo is uploaded → generate BOTH persons together.
+
+• Do NOT add extra people or unrelated characters.
+
+
+Miniature Chibi Transformation:
+
+Transform the uploaded person(s) into adorable realistic big-head miniature chibi characters with:
+
+• Slightly oversized heads
+
+• Tiny realistic bodies
+
+• Ultra-realistic facial resemblance
+
+• Premium 3D miniature styling
+
+• Realistic skin texture
+
+• Cute but luxury studio-shoot proportions
+
+
+Main Scene Concept:
+
+The miniature character(s) should appear inside a realistic professional photography studio setup, sitting inside a large realistic human hand.
+
+
+Pose & Expression:
+
+• Sitting cross-legged
+
+• Hands crossed or naturally posed
+
+• Slightly pouty
+
+• Mock-angry but adorable
+
+• Looking directly at the camera
+
+• Cute playful body language
+
+
+Interactive Hand Effect:
+
+Add a second realistic hand gently pinching, touching, or adjusting one character’s cheek for a playful teasing effect.
+
+
+Studio Photoshoot Environment:
+
+Create a luxury professional photography studio atmosphere with visible realistic studio equipment such as:
+
+• DSLR cinema camera
+
+• Professional softbox lights
+
+• Ring lights
+
+• Spotlight stands
+
+• Reflectors
+
+• Studio monitors
+
+• Tripods
+
+• Cinematic lighting rigs
+
+• Photography backdrop setup
+
+• Light modifiers
+
+• Camera lenses
+
+• Professional shooting environment
+
+
+Lighting Concept:
+
+A soft cinematic studio light should be directly focused on the miniature character(s), creating:
+
+• Warm facial highlights
+
+• Soft shadows
+
+• Professional beauty-light effect
+
+• Cinematic depth
+
+• Realistic studio reflections
+
+• Glossy premium skin lighting
+
+• DSLR-quality illumination
+
+
+The lighting should feel like:
+
+• A real fashion photoshoot
+
+• Luxury portrait studio
+
+• Cinematic movie lighting
+
+• High-end editorial photography
+
+
+Background:
+
+Create a blurred premium studio background with:
+
+• Dreamy bokeh lights
+
+• Cinematic depth of field
+
+• Luxury indoor aesthetic
+
+• Soft warm tones
+
+• Professional backdrop setup
+
+• High-end studio atmosphere
+
+
+Extra Mini Chibi Characters:
+
+Add multiple tiny 3D mini versions of the SAME uploaded character(s) around the main subjects doing cute and funny activities like:
+
+• Holding mini cameras
+
+• Adjusting studio lights
+
+• Pulling cheeks
+
+• Fighting playfully
+
+• Holding hearts
+
+• Sitting on camera equipment
+
+• Hugging
+
+• Laughing
+
+• Cute reaction poses
+
+• Tiny behind-the-scenes studio moments
+
+
+Aesthetic Design Elements:
+
+• Add glowing cinematic borders around the main character(s)
+
+• Add subtle light streaks and lens flares
+
+• Add floating particles and dreamy glow effects
+
+• Add realistic camera reflections
+
+• Add soft atmospheric fog/light diffusion
+
+• Add premium editorial framing composition
+
+
+Typography Design:
+
+Add premium studio-themed typography naturally integrated into the poster such as:
+
+• “STUDIO MODE”
+
+• “MAIN CHARACTER”
+
+• “BEHIND THE SCENES”
+
+• “MINI STAR”
+
+• “CINEMATIC VIBES”
+
+• “DIRECTOR’S CUT”
+
+• “LUXURY SHOOT”
+
+
+Typography Style:
+
+• Minimal premium fonts
+
+• Fashion-magazine typography
+
+• Soft glow text
+
+• Cinematic poster design
+
+• Luxury editorial aesthetic
+
+
+Outfit Accuracy:
+
+Maintain the EXACT SAME:
+
+• Clothing
+
+• Outfit colors
+
+• Textures
+
+• Accessories
+
+• Hairstyle
+
+• Fashion styling
+
+from the uploaded reference image(s).
+
+
+Rendering Quality:
+
+• Ultra-realistic miniature studio art
+
+• Hyper-detailed premium 3D render
+
+• High-end Pixar-style realism
+
+• Realistic facial texture
+
+• DSLR-quality photography look
+
+• Soft cinematic lighting
+
+• Premium editorial color grading
+
+• Clean sharp focus
+
+• Luxury portrait composition
+
+• Instagram-worthy premium poster quality
+
+
+Important Restrictions:
+
+• DO NOT modify identity
+
+• DO NOT swap faces
+
+• DO NOT create mismatched faces
+
+• DO NOT add unknown people
+
+• Keep uploaded person(s) fully recognizable
+
+
+Aspect Ratio:
+
+4:5 premium poster ratio.
+
+
+```
+
 ---
 
 <div align="center">
