@@ -487,7 +487,25 @@ A high-quality studio portrait cutout of an 18-year-old Indian girl taking a mir
 
 ---
 
+# 🌌 PROMPT 25 — Explore Beyond Limits – Cinematic Sports Poster
+
 <div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
+</div>
+
+```txt
+Create a hyper-realistic premium sports poster using the uploaded face EXACTLY unchanged with accurate face structure, beard, hairstyle, glasses, skin tone, and facial proportions. Subject floating in a dynamic mid-air action pose wearing a luxury beige tracksuit and oversized white-orange running shoes with dramatic wide-angle perspective. Deep royal blue background with intense orange glow behind the subject, cinematic sports advertisement lighting, dust explosion particles, smoke effects, and strong depth. Add large transparent "EXPLORE" typography in background, minimal doodle microphone and boombox illustrations, premium Nike/Adidas campaign style, ultra detailed textures, sharp focus, realistic shadows, high contrast color grading, professional Instagram fashion poster aesthetic, vertical 4:5 ratio.
+```
+
+# 👶 PROMPT 26 —Urban Echo – Graffiti Portrait Poster
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/ARTISTIC%20BABY%20PORTRAIT.png" width="340"/>
+</div>
+
+```txt
+Create a bold street-art inspired portrait of a young man using the provided reference image, ensuring the face remains 100% accurate and unchanged-do not alter facial structure, skin tone, hairstyle, beard, or proportions in any way. Preserve exact identity with sharp, clean facial details while applying stylized overlays only around and partially over the subject without distorting key features like eyes, nose, and mouth. The subject is shown in a 3/4 angle, slightly turned toward the camera, with the head subtly tilted upward, maintaining a confident yet thoughtful expression. He wears a simple hoodie with minimal accessories, framed in a clean upper-body composition with no distracting environment. Surround the subject with dynamic street-art elements including graffiti textures, spray paint strokes, scribbles, arrows, motion lines, stencil layers, paint drips, and rough edges, creating a gritty urban poster aesthetic. Use a controlled color palette of black, off-white, burnt orange, and subtle blue accents to maintain strong contrast and visual impact. The artwork should feel raw and energetic with layered depth and texture (grunge "410" style), while keeping the face crisp, ultra-detailed, and clearly visible beneath the artistic treatment. Maintain sharp focus and high resolution, with strong contrast and bold composition, but strictly avoid photorealism in the overall style-this should be an illustration-based artwork with a handcrafted, urban street feel. Ensure the final result looks like a professionally designed graffiti poster, with balanced layering, no messy distortions on the face, and a clean integration between realism and stylization.
+```
 
 
 ---
