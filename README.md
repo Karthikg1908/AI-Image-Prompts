@@ -507,6 +507,25 @@ Create a hyper-realistic premium sports poster using the uploaded face EXACTLY u
 Create a bold street-art inspired portrait of a young man using the provided reference image, ensuring the face remains 100% accurate and unchanged-do not alter facial structure, skin tone, hairstyle, beard, or proportions in any way. Preserve exact identity with sharp, clean facial details while applying stylized overlays only around and partially over the subject without distorting key features like eyes, nose, and mouth. The subject is shown in a 3/4 angle, slightly turned toward the camera, with the head subtly tilted upward, maintaining a confident yet thoughtful expression. He wears a simple hoodie with minimal accessories, framed in a clean upper-body composition with no distracting environment. Surround the subject with dynamic street-art elements including graffiti textures, spray paint strokes, scribbles, arrows, motion lines, stencil layers, paint drips, and rough edges, creating a gritty urban poster aesthetic. Use a controlled color palette of black, off-white, burnt orange, and subtle blue accents to maintain strong contrast and visual impact. The artwork should feel raw and energetic with layered depth and texture (grunge "410" style), while keeping the face crisp, ultra-detailed, and clearly visible beneath the artistic treatment. Maintain sharp focus and high resolution, with strong contrast and bold composition, but strictly avoid photorealism in the overall style-this should be an illustration-based artwork with a handcrafted, urban street feel. Ensure the final result looks like a professionally designed graffiti poster, with balanced layering, no messy distortions on the face, and a clean integration between realism and stylization.
 ```
 
+# 👶 PROMPT 27 —Urban Echo – Focused in the forest with camera
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/ARTISTIC%20BABY%20PORTRAIT.png" width="340"/>
+</div>
+
+```txt
+Creat a Bk hyper-realistic dark green portrait cinematic image with dramatic smile actions (uploaded photo 100% Face match) of A stylish handsome young man (refrence image given) with a slightly dark messy hairstyle. He hold a Canon camera, He is looking thoughtfully off-canmera, captured in a candid, high-key cinematic outdoor portrait The composition is Framed by a branch of vivid.wear a black and white gradient collored shirt.wear neck gold chain and gold earrings.
+```
+
+# 👶 PROMPT 28 — Gentle connections through a scrapbook collage
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/ARTISTIC%20BABY%20PORTRAIT.png" width="340"/>
+</div>
+
+```txt
+A romantic illustrated scrapbook collage featuring two semi-realistic digital portrait illustrations of a woman and a man placed inside polaroid-style photo frames. The woman has long flowing dark hair and a soft smile, labeled "Her Gaze" ", and the man has styled hair with light stubble, labeled "His Smile". In the center, two hands reaching toward each other in a gentle, emotional pose. Background is a warm beige paper texture with faint grid lines, torn paper edges, and layered scrapbook elements. Small hand-drawn doodles like hearts, sparkles, and arrows scattered around. Soft lighting, clean line art, smooth shading, warm pastel tones, romantic aesthetic, minimal shadows, high detail, balanced composition, no photorealism.
+```
 
 ---
 
