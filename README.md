@@ -527,6 +527,111 @@ Creat a Bk hyper-realistic dark green portrait cinematic image with dramatic smi
 A romantic illustrated scrapbook collage featuring two semi-realistic digital portrait illustrations of a woman and a man placed inside polaroid-style photo frames. The woman has long flowing dark hair and a soft smile, labeled "Her Gaze" ", and the man has styled hair with light stubble, labeled "His Smile". In the center, two hands reaching toward each other in a gentle, emotional pose. Background is a warm beige paper texture with faint grid lines, torn paper edges, and layered scrapbook elements. Small hand-drawn doodles like hearts, sparkles, and arrows scattered around. Soft lighting, clean line art, smooth shading, warm pastel tones, romantic aesthetic, minimal shadows, high detail, balanced composition, no photorealism.
 ```
 
+# 👶 PROMPT 29 —ultra-detailed stylized sketch-avatar portrait
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/ARTISTIC%20BABY%20PORTRAIT.png" width="340"/>
+</div>
+
+```txt
+A romantic illustrated scrapbook collage featuring two semi-realistic digital portrait illustrations of a woman and a man placed inside polaroid-style photo frames. The woman has long flowing dark hair and a soft smile, labeled "Her Gaze" ", and the man has styled hair with light stubble, labeled "His Smile". In the center, two hands reaching toward each other in a gentle, emotional pose. Background is a warm beige paper texture with faint grid lines, torn paper edges, and layered scrapbook elements. Small hand-drawn doodles like hearts, sparkles, and arrows scattered around. Soft lighting, clean line art, smooth shading, warm pastel tones, romantic aesthetic, minimal shadows, high detail, balanced composition, no photorealism.
+```
+
+# 👶 PROMPT 30 — ultra-detailed realistic studio photoshoot miniature
+
+<div align="center">
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/ARTISTIC%20BABY%20PORTRAIT.png" width="340"/>
+</div>
+
+```txt
+Create an ultra-detailed realistic miniature studio photoshoot portrait in a premium 4:5 poster ratio using the uploaded reference image(s) as the ONLY facial and outfit reference.
+
+The final image must preserve the EXACT real-life identity of the uploaded person(s) with extremely accurate facial resemblance. The character should instantly look like the same real person transformed into a premium miniature chibi-style cinematic portrait — not a random AI-generated face.
+
+Preserve with high accuracy: exact face structure, eye shape and spacing, eyebrows, nose shape, lips, jawline, beard or makeup details, hairstyle, hairline, skin tone, facial proportions, and all unique facial characteristics. Maintain natural real-life expressions and identity consistency.
+
+Do NOT: change identity, beautify excessively, alter hairstyle, change skin tone, replace facial features, over-cartoonize the face, or generate mismatched/random faces.
+
+Character transformation style:
+Transform the uploaded person(s) into adorable premium 3D miniature chibi characters with slightly oversized heads, tiny realistic bodies, realistic skin texture, luxury toy-like proportions, and ultra-detailed facial resemblance.
+
+Scene setup:
+The miniature character(s) are sitting inside a large realistic human hand inside a luxury professional photography studio environment.
+
+Pose and expression:
+• Sitting cross-legged
+• Hands naturally posed or crossed
+• Slight pouty expression
+• Mock-angry but cute expression
+• Looking directly at the camera
+• Playful and adorable body language
+
+Interactive hand effect:
+A second realistic human hand gently pinches, touches, or adjusts the character’s cheek playfully.
+
+Studio environment details:
+Create a cinematic luxury photography studio atmosphere including:
+• DSLR cinema cameras
+• Professional softbox lights
+• Ring lights
+• Tripods
+• Reflectors
+• Spotlight stands
+• Camera lenses
+• Studio monitors
+• Cinematic lighting rigs
+• Photography backdrop setup
+• High-end editorial shooting environment
+
+Lighting style:
+Soft cinematic studio lighting focused directly on the miniature character(s), creating warm highlights, soft shadows, glossy skin reflections, realistic depth, beauty-light effects, and luxury editorial lighting similar to a professional fashion photoshoot.
+
+Background:
+Blurred premium studio background with dreamy bokeh lights, shallow depth of field, soft warm tones, cinematic atmosphere, and realistic indoor studio aesthetics.
+
+Extra miniature characters:
+Add multiple tiny 3D mini versions of the SAME uploaded character(s) around the main subject doing cute behind-the-scenes activities such as:
+• Holding mini cameras
+• Adjusting lights
+• Pulling cheeks
+• Sitting on camera equipment
+• Holding hearts
+• Hugging
+• Laughing
+• Playful reaction poses
+• Tiny studio crew moments
+
+Aesthetic details:
+• Soft glowing outline around the main character(s)
+• Cinematic light streaks and lens flares
+• Floating dust particles and dreamy glow effects
+• Realistic camera reflections
+• Soft atmospheric fog and light diffusion
+• Premium editorial composition
+
+Typography design:
+Add elegant fashion-poster typography naturally integrated into the composition using texts like:
+“STUDIO MODE”
+“MAIN CHARACTER”
+“BEHIND THE SCENES”
+“MINI STAR”
+“CINEMATIC VIBES”
+“DIRECTOR’S CUT”
+“LUXURY SHOOT”
+
+Typography style should feel minimal, premium, cinematic, and fashion-editorial inspired with soft glow effects.
+
+Outfit accuracy:
+Maintain the EXACT SAME outfit, clothing colors, textures, accessories, hairstyle, and fashion styling from the uploaded reference image(s).
+
+Rendering quality:
+Ultra-realistic miniature studio art, hyper-detailed premium 3D render, Pixar-style realism, realistic facial texture, DSLR-quality photography look, cinematic lighting, premium editorial color grading, clean sharp focus, luxury portrait composition, Instagram-worthy premium poster aesthetic, highly detailed, realistic depth and shadows.
+
+Negative prompt:
+low quality, blurry face, wrong identity, distorted facial features, extra limbs, extra fingers, duplicate characters, deformed anatomy, cartoon face, unrealistic skin, mismatched hairstyle, bad hands, bad proportions, cropped body, low detail, noisy image, artifacts, oversaturated colors, text errors, watermark.
+
+```
+
 ---
 
 <div align="center">
