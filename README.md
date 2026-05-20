@@ -453,7 +453,7 @@ Dreamy scrapbook collage aesthetic for a stylish young man, wearing a clean shir
 # 🌌 PROMPT 23 — Crimson Streetwear Campaign Shot
 
 <div align="center">
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Cozy%20Beige%20Mirror%20Selfie%20Aesthetic.png" width="340"/>
 </div>
 
 ```txt
@@ -478,7 +478,7 @@ Negative prompt: blurry image, low quality, distorted body, extra limbs, extra f
 # 🌌 PROMPT 24 — Cozy Beige Mirror Selfie Aesthetic
 
 <div align="center">
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Cozy%20Beige%20Mirror%20Selfie%20Aesthetic.png" width="340"/>
 </div>
 
 ```txt
@@ -490,7 +490,7 @@ A high-quality studio portrait cutout of an 18-year-old Indian girl taking a mir
 # 🌌 PROMPT 25 — Explore Beyond Limits – Cinematic Sports Poster
 
 <div align="center">
-<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Tiny%20Twin%20Portrait.png" width="340"/>
+<img src="https://github.com/Karthikg1908/AI-Image-Prompts/blob/main/Results/Explore%20Beyond%20Limits%20%E2%80%93%20Cinematic%20Sports%20Poster.png" width="340"/>
 </div>
 
 ```txt
